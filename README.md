@@ -1,0 +1,2 @@
+# projetoOfi
+Alteração de um projeto já existente feito por mim. O objetivo é fazer a reutilização do código de uma loja online de brinquedos colecionáveis e transformar em uma página que funcione para uma oficina mecânica. Será usado para demonstração de serviços realizados e produtos que estão a venda, será importante conter no site a estética já existente do negócio e que seja de fácil utilização. 
